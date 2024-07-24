@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Bornik Dekaviraj</h1>
 <h3 align="center">Passionate about Android Developing and ML.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/bornik-dekaviraj-99a658246/</h3>
 <p align="left">
 </p>
 
