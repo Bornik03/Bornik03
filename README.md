@@ -1,6 +1,6 @@
-<img src="https://github.com/Bornik03/Readme/blob/main/pixel_waterfall_bg__by_isohei_d4xntof.gif" style="width:100%; height:auto;" />
-
-
+<div style="width: 100vw; overflow: hidden; margin: 0;">
+    <img src="https://github.com/Bornik03/Readme/blob/main/pixel_waterfall_bg__by_isohei_d4xntof.gif" style="width: 100vw; height: auto;" />
+</div>
 
 
 
